@@ -4,7 +4,7 @@
 
 This exercise in HTML is a part of the [odin projects](https://www.theodinproject.com/) curicculum  
 
-I am expected to create a simple recipe page. For this I'm expecting to use ordered/unordered lists, headings and paragraphs and links. 
+I am expected to create a simple recipe page. For this I'm expecting to use ordered/unordered lists, headings and paragraphs and links.  
 
 To get started i need to create an index.html file and write( insert via VSCode shortcut) the boilerplate for the index file.
 
