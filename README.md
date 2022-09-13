@@ -22,4 +22,8 @@ As a gague for progress and a tool to get used to documenting what i learn, I am
 
 ---
 
-## *What i have learned*
+## *Thoughts on what I have learned*
+
+- I got to refresh my memory with HTML syntax.
+- The assignment had a very basic usage of HTML elements, headings, ol, ul, img and p.  
+- The assignment was worthwile when taking into account that i got to get used to git.
